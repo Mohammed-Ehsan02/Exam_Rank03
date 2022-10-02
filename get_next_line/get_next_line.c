@@ -1,5 +1,6 @@
 #include <stddef.h>
 #include <unistd.h>
+#include <stdlib.h>
 
 void	*resize(char **arr, size_t old_len, size_t new_len)
 {
